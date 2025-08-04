@@ -1,4 +1,4 @@
-# 📝 React To-Do App
+# React To-Do App
 
 A simple and responsive To-Do list built using **React**, with data persistence through `localStorage`. Tasks are automatically saved locally until completed.
 
