@@ -2,16 +2,12 @@
 
 A simple and responsive To-Do list built using **React**, with data persistence through `localStorage`. Tasks are automatically saved locally until completed.
 
-![screenshot](./preview.png) <!-- Optional: Replace or remove -->
-
----
-
 ## Features
 
 -  Add new tasks
 -  Delete existing tasks
 -  Mark tasks as complete (with line-through)
--  Persistent data using `localStorage` (only saves incomplete tasks)
+-  Persistent data using `localStorage` (saves incomplete tasks)
 -  Responsive design using Tailwind CSS
 
 ---
@@ -20,7 +16,7 @@ A simple and responsive To-Do list built using **React**, with data persistence 
 
 - **React** (with Hooks)
 - **Tailwind CSS**
-- **Vite** (if used)
+- **Vite** 
 - **GitHub Pages** (for deployment)
 
 ---
